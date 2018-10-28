@@ -1,0 +1,19 @@
+{
+  "name": "rsschool-codejam-3",
+  "version": "1.0.0",
+  "description": "3 functions for rsschool-codejam N3",
+  "main": "make.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grnkvch/rsschool-codejam.git"
+  },
+  "author": "Valentin Grinkevich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grnkvch/rsschool-codejam/issues"
+  },
+  "homepage": "https://github.com/grnkvch/rsschool-codejam#readme"
+}
