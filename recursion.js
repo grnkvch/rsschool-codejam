@@ -1,4 +1,4 @@
-function recursion(tree, deep = 0, result = []){
+module.exports = function recursion(tree, deep = 0, result = []){
     if (!result[deep]) result[deep] = [];
     if (tree) result[deep].push(tree.value);
     else return;

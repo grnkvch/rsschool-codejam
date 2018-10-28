@@ -1,4 +1,4 @@
-function make (...arg) {
+module.exports = function make (...arg) {
     let data = [];
     if (typeof arg[0] === 'function') throw new TypeError("There's no data to calculate");
     data = arg.slice();
