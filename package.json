@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/grnkvch/rsschool-codejam/issues"
   },
-  "homepage": "https://github.com/grnkvch/rsschool-codejam#readme"
+  "homepage": "https://github.com/grnkvch/rsschool-codejam#readme",
+  "devDependencies": {
+    "eslint": "^5.8.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  }
 }
